@@ -1,0 +1,24 @@
+2022/04/16 22:19:10 [notice] 4168#24844: signal process started
+2022/04/16 22:20:08 [notice] 14592#4540: signal process started
+2022/04/16 22:22:59 [error] 22052#9720: *1 CreateFile() "E:\zkp_git\leaflet_turorial\nginx-1.21.6/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2022/04/16 22:24:07 [notice] 23408#19204: signal process started
+2022/04/16 22:24:16 [notice] 23596#28756: signal process started
+2022/04/16 22:24:16 [error] 23596#28756: CreateFile() "E:\zkp_git\leaflet_turorial\nginx-1.21.6/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/16 22:24:22 [notice] 30892#13732: signal process started
+2022/04/16 22:24:22 [error] 30892#13732: CreateFile() "E:\zkp_git\leaflet_turorial\nginx-1.21.6/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/16 22:24:25 [notice] 15680#9912: signal process started
+2022/04/16 22:24:25 [error] 15680#9912: CreateFile() "E:\zkp_git\leaflet_turorial\nginx-1.21.6/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/16 22:25:02 [notice] 5568#5764: signal process started
+2022/04/16 22:25:04 [notice] 14396#28724: signal process started
+2022/04/16 22:25:04 [error] 14396#28724: CreateFile() "E:\zkp_git\leaflet_turorial\nginx-1.21.6/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/16 22:25:20 [error] 22052#9720: *6 CreateFile() "E:\zkp_git\leaflet_turorial\nginx-1.21.6/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2022/04/16 22:27:42 [notice] 25716#14384: signal process started
+2022/04/16 22:27:42 [error] 25716#14384: CreateFile() "E:\zkp_git\leaflet_turorial\nginx-1.21.6/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/16 22:30:59 [error] 22052#9720: *11 CreateFile() "E:\zkp_git\leaflet_turorial\nginx-1.21.6/html/html/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /html/index.html HTTP/1.1", host: "localhost:8080"
+2022/04/16 22:31:02 [error] 22052#9720: *11 CreateFile() "E:\zkp_git\leaflet_turorial\nginx-1.21.6/html/html/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /html/index.html HTTP/1.1", host: "localhost:8080"
+2022/04/16 22:31:03 [error] 22052#9720: *11 CreateFile() "E:\zkp_git\leaflet_turorial\nginx-1.21.6/html/html/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /html/index.html HTTP/1.1", host: "localhost:8080"
+2022/04/16 22:31:30 [error] 22052#9720: *11 CreateFile() "E:\zkp_git\leaflet_turorial\nginx-1.21.6/html/html/50x.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /html/50x.html HTTP/1.1", host: "localhost:8080"
+2022/04/16 22:31:33 [error] 22052#9720: *11 CreateFile() "E:\zkp_git\leaflet_turorial\nginx-1.21.6/html/html/50x.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /html/50x.html HTTP/1.1", host: "localhost:8080"
+2022/04/16 22:35:45 [error] 22052#9720: *14 CreateFile() "E:\zkp_git\leaflet_turorial\nginx-1.21.6/html/html/50x.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /html/50x.html HTTP/1.1", host: "localhost:8080"
+2022/04/16 22:41:06 [alert] 27416#13356: worker process 21620 exited with code C0000142
+2022/04/16 22:41:06 [alert] 27416#13356: could not respawn worker
