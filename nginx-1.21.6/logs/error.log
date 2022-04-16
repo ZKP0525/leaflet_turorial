@@ -22,3 +22,5 @@
 2022/04/16 22:35:45 [error] 22052#9720: *14 CreateFile() "E:\zkp_git\leaflet_turorial\nginx-1.21.6/html/html/50x.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /html/50x.html HTTP/1.1", host: "localhost:8080"
 2022/04/16 22:41:06 [alert] 27416#13356: worker process 21620 exited with code C0000142
 2022/04/16 22:41:06 [alert] 27416#13356: could not respawn worker
+2022/04/16 22:47:00 [error] 3444#3708: *1 CreateFile() "E:\zkp_git\leaflet_turorial\nginx-1.21.6/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2022/04/17 00:06:08 [error] 3444#3708: *7 CreateFile() "E:\zkp_git\leaflet_turorial\nginx-1.21.6/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
